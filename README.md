@@ -1,3 +1,3 @@
 # Mircowave
 
-The FSM Approach to a microwave.
+The FSM Approach to a video player with a GUI.
